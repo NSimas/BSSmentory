@@ -8,5 +8,5 @@ while (i < 10000) {
         console.log(`${i} é múltiplo de 3`)
     } else {
     }
-    i=i++
+    i=i+1
 }
